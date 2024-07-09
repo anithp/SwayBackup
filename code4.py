@@ -3,8 +3,8 @@ import os
 import datetime
 import time
 
-backup_path = r'C:\Users\Admin\OneDrive\Desktop\backup'
-trades_path = r'D:\OdinIntegrated\Admin\OnLineBackup\BSE Equities\Trades'
+backup_path = r'C:\Users\Admin\OneDrive\Desktop\JAINAM_BACKUP'
+trades_path = r'C:\Users\Admin\OneDrive\Desktop\MULTITRADE BACKUP'
 
 while True:
 	today = datetime.datetime.now()
